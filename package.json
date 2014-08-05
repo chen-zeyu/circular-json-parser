@@ -1,0 +1,24 @@
+{
+  "name": "circular-json-parser",
+  "version": "0.0.1",
+  "description": "circular-json-parser ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chen-zeyu/circular-json-parser.git"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "circular"
+  ],
+  "author": "polazeyu@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chen-zeyu/circular-json-parser/issues"
+  },
+  "homepage": "https://github.com/chen-zeyu/circular-json-parser"
+}

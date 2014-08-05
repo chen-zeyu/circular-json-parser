@@ -1,0 +1,27 @@
+{
+  "name": "circular-json-parser",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chen-zeyu/circular-json-parser",
+  "authors": [
+    "明正 <mingzheng.czy@taobao.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "circular",
+    "json",
+    "parser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
